@@ -10,7 +10,7 @@ function Intro() {
       <p className='text-white w-3/4'> 
       Programming is 10% writing code and 90% figuring out why it's not working.</p>
 
-      <button onClick={() => window.open("https://drive.google.com/file/d/1KgK4mPUePu5k8KRf-l6ltVFdICIYENeh/view?usp=sharing")} className='border-2 border-tertiary text-tertiary px-10 py-3 rounded'>
+      <button onClick={() => window.open("https://drive.google.com/file/d/1mvLPWJZ6oliqIkQlUUmt3YxlvBQb3HiH/view?usp=sharing")} className='border-2 border-tertiary text-tertiary px-10 py-3 rounded'>
         View Resume
       </button>
     </div>
