@@ -11,7 +11,7 @@ function Sider() {
                     <a href="mailto:abhidaine@gmail.com" target="_blank">
                         <i class="ri-mail-line"></i>
                     </a>
-                    <a href="https://drive.google.com/file/d/1mvLPWJZ6oliqIkQlUUmt3YxlvBQb3HiH/view?usp=sharing" target="_blank">
+                    <a href="https://drive.google.com/file/d/1wc9wOCEgy4RTpj_swPEwbjZixJ33P3Um/view?usp=sharing" target="_blank">
                         <i class="ri-file-line "></i>
                     </a>
                     <a href="https://github.com/abhishadaine" target="_blank">
